@@ -6,9 +6,9 @@ This is a simple weather application. It displays real-time weather information 
 
 ## Features
 
-- Display real-time weather information based on which city user wnats to know.
+- Display real-time weather information based on which city user wants to know.
 - There is 3 components in the project.
-- Fist one for search/current weather second one is for forecast and teh last copyright.
+- Fist one for search/current weather second one is for the forecast and last one is for copyright.
 - Options to view weather information in details such as Pressure,Clouds,Sea level,Humidity,Wind speed and Feels like.
 - I used 2 API keys from  OpenWeather API and GeoDB Cities API.
 - User-friendly interface
